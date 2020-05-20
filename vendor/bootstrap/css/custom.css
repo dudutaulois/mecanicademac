@@ -1,3 +1,7 @@
 .dark-bg {
     background-color: var(--dark);
 }
+
+.h-100vh {
+    height: 100vh;
+}
